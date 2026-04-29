@@ -1,7 +1,7 @@
 package Java_Loops;
 import java.util.Scanner;
 
-public class IfLoopExample {
+public class ForLoopEx2 {
     public static void main(String[] args){
 
         Scanner sc = new Scanner(System.in);
